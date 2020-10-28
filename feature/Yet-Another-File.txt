@@ -1,1 +1,2 @@
 This yet again another file created for the git training course. 
+Ok another line adde remotely.
