@@ -1,0 +1,8 @@
+his yet again another file created for the git training course. 
+<<<<<<< HEAD
+
+Ok now I'm adding another line for testing purposes.
+
+=======
+Ok another line adde remotely.
+>>>>>>> 6b0b7a34cdd2d5f6faeb0e22e8060049653a88df
