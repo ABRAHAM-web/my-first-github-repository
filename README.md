@@ -1,3 +1,3 @@
 # my-first-github-repository
 Here is my first github repository
-README.md file was just edited manually. Another edit locally
+Ek het toe eerder lokaal 'n nuwe lyn bygesit
